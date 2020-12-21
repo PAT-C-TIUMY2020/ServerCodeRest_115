@@ -16,7 +16,7 @@ namespace ServerCodeRest_20180140115_NurFajarIsmail
         {
 
             ServiceHost hostObjek = null;
-           Uri address = new Uri("http://localhost:8733/Design_Time_Addresses/ServiceRest_20180140115_NurFajarIsmail/Service1/");
+           Uri address = new Uri("http://localhost:8733/Mahasiswa/");
             WebHttpBinding bind = new WebHttpBinding();
             try
             {
